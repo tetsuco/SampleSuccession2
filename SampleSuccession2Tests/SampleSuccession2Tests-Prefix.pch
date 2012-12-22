@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'SampleSuccession2Tests' target in the 'SampleSuccession2Tests' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+#endif
